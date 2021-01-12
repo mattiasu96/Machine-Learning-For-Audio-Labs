@@ -1,7 +1,9 @@
 # Machine-Learning-For-Audio-Labs
 This repository contains our code for the 4 labs of the course of **Machine Learning for Audio Application** @ Politecnico di Milano. The course covers the fundamentals of Machine Learning ad Deep Learning with particular focus on Audio applications. 
 
-The course was split into 4 parts. At the end of each one we had a mandatory lab, which consisted in writing a Jupyter notebook in Python, the full syllabus is the following:
+The course was split into 4 parts. At the end of each one we had a mandatory lab, which consisted in writing a Jupyter notebook in Python. T
+
+The full syllabus is the following:
 
 **Part I: Introduction** <br>
   • Course structure <br>
