@@ -42,6 +42,6 @@ The course was split into 4 parts. At the end of each one we had a mandatory lab
 
 1) [Lab 1](/Lab_1/Lab1_Surricchio_Intagliata.ipynb) : Python basics and Signal Processing
 2) [Lab 2](/Lab_2/Surricchio,_Intagliata_Lab_2_Polimi.ipynb): Supervised Learning and Machine Learning models in Audio applications
-3) [Lab 3](/Lab_3/Surricchio_Intagliata_Lab_3_Polimi (1).ipynb) : Deep Learning models in Audio Applications
+3) [Lab 3](/Lab_3/Surricchio_Intagliata_Lab_3_Polimi.ipynb) : Deep Learning models in Audio Applications
 4) [Lab 4](/Lab_4/Surricchio_Intagliata_Lab_4_Polimi.ipynb) : Advanced Deep Learning models in Audio Applications
 
